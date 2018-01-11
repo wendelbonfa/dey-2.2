@@ -8,7 +8,7 @@ LIC_FILES_CHKSUM = "file://Licenses/README;md5=0507cd7da8e7ad6d6701926ec9b84c95"
 
 #SRC_URI = "git://git.denx.de/u-boot.git;branch=master"
 
-SRC_URI = "git://github.com/wendelbonfa/u-boot.git,branch=master"
+SRC_URI = "git://github.com/wendelbonfa/u-boot.git;branch=master"
 
 S = "${WORKDIR}/git"
 
